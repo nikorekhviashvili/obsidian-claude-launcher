@@ -1,0 +1,10 @@
+{
+	"id": "claude-launcher",
+	"name": "Claude Code Launcher",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Launch Claude Code in your terminal with file context and text selection from Obsidian",
+	"author": "Niko Rekhviashvili",
+	"authorUrl": "https://github.com/nikorekhviashvili",
+	"isDesktopOnly": true
+}
