@@ -6,7 +6,7 @@ Launch [Claude Code](https://docs.anthropic.com/en/docs/claude-code) directly fr
 
 ## How it works
 
-1. Press `Cmd+Alt+D` or run the command from the palette. (You can also change hotkey from Obsidian settings)
+1. Press `Cmd+Opt+S` or run the command from the palette. (You can also change hotkey from Obsidian settings)
 2. A modal appears showing the current file and selected text
 3. Optionally type additional context for Claude Code
 4. Hit `Cmd+Enter` — Claude Code launches in your terminal, scoped to your vault

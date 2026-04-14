@@ -77,7 +77,7 @@ export default class ClaudeLauncherPlugin extends Plugin {
 		this.addCommand({
 			id: "launch-claude-code",
 			name: "Launch Claude Code with selection",
-			hotkeys: [{ modifiers: ["Mod", "Alt"], key: "d" }],
+			hotkeys: [{ modifiers: ["Mod", "Alt"], key: "s" }],
 			editorCallback: (editor: Editor, view: MarkdownView) => {
 				const sel = editor.getSelection() ?? "";
 				const file = view.file ?? null;
